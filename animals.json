@@ -348,7 +348,7 @@
                                             			                                           	                                        			                                   
 			{ "code": "boar.male", 							"latin": "Sus scrofa verres",			   	"label": "Wild boar - Boar",		 		"icon": "Wildboar.png",		 		   "cat": 1 },			
 			{ "code": "boar.female", 						"latin": "Sus scrofa porca",			   	"label": "Wild boar - Sow",	 	   			"icon": "Wildboar.png",		 		   "cat": 1 },			
-			{ "code": "boar.female.no-childs", 				"latin": "Sus scrofa"			 		   	"label": "Wild boar - Gilt",	 	   		"icon": "Wildboar.png",		 		   "cat": 1 },			
+			{ "code": "boar.female.no-childs", 				"latin": "Sus scrofa",			 		   	"label": "Wild boar - Gilt",	 	   		"icon": "Wildboar.png",		 		   "cat": 1 },			
 			{ "code": "boar.child.brown", 					"latin": "Sus scrofa fuscus",			   	"label": "Wild boar - Brown",	 	   		"icon": "Wildboar.png",		 		   "cat": 1 },			
 			{ "code": "boar.child.red", 					"latin": "Sus scrofa ruber",			   	"label": "Wild boar - Red",	 	   			"icon": "Wildboar.png",		 		   "cat": 1 },			
 			{ "code": "boar.child.striped",					"latin": "Sus scrofa clavatus",			   	"label": "Wild boar - Piglet (striped)",	"icon": "Wildboar.png",		 		   "cat": 1 },			
