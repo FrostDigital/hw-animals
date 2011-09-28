@@ -303,7 +303,7 @@
 			{ "code": "dog.raccoon",					"latin": "Nyctereutes procyonoides",  	   		"label": "Mårhund",										"icon": "dog.raccoon.png", 		 		 "cat": 2 },
 			{ "code": "mink.american",					"latin": "Mustela vison",  				   		"label": "Mink",										"icon": "mink.american.png", 	 		 "cat": 2 },
 			{ "code": "firefox.male", 					"latin": "Vulpes vulpes masculus", 		   		"label": "Rev - Hann",									"icon": "Red fox.png", 			 		 "cat": 2 },
-			{ "code": "firefox.female"					"latin": "Vulpes vulpes femina",  		   		"label": "Rev - Tispe",									"icon": "Red fox.png", 			 		 "cat": 2 },
+			{ "code": "firefox.female",					"latin": "Vulpes vulpes femina",  		   		"label": "Rev - Tispe",									"icon": "Red fox.png", 			 		 "cat": 2 },
 			{ "code": "firefox.child",					"latin": "Vulpes vulpes iuvenis", 		   		"label": "Rev - Valp",									"icon": "Red fox.png", 			 		 "cat": 2 },
 			{ "code": "fallow-deer.male",				"latin": "Dama dama taurus",  			   		"label": "Dåhjort - Bukk",								"icon": "fallow-deer.png", 		 		 "cat": 1 },			
 			{ "code": "fallow-deer.female",				"latin": "Dama dama bucula",  			   		"label": "Dåhjort - Hind",								"icon": "fallow-deer.female", 	 		 "cat": 1 },			
