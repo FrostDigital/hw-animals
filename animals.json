@@ -101,12 +101,12 @@
 			{ "code": "mouflon.child.female",	   	  	"latin": "Ovis orientalis platycerata",  		"label": "Mufflon - Honlamm",			"icon": "mouflon.png", 					"cat": 1 },
 			{ "code": "wolf.male",					  	"latin": "Canis lupus masculus",  				"label": "Varg - Hane",					"icon": "Wolf.png", 					"cat": 1 },
 			{ "code": "wolf.female",				  	"latin": "Canis lupus femina",  				"label": "Varg - Hona",					"icon": "Wolf.png", 					"cat": 1 },
-            		{ "code": "otter.european",				  	"latin": "Lutra lutra",  						"label": "Utter",						"icon": "otter.png", 					"cat": 2 },
-            		{ "code": "rabbit",				  	"latin": "Oryctolagus cuniculus",  						"label": "Vildkanin",						"icon": "hare.png", 					"cat": 2 },
-            		{ "code": "wolverine",				  	"latin": "Gulo gulo",  						"label": "Järv",						"icon": "badger.png", 					"cat": 2 },
-            		{ "code": "seal.grey",				  	"latin": "Halichoerus grypus",  						"label": "Gråsäl",						"icon": "badger.png", 					"cat": 2 },
-            		{ "code": "seal.harbor",			  	"latin": "Phoca vitulina",  						"label": "Knubbsäl",						"icon": "badger.png", 					"cat": 2 },
-            		{ "code": "seal.ringed",			  	"latin": "Pusa hispida",  						"label": "Vikare",						"icon": "badger.png", 					"cat": 2 }
+            { "code": "otter.european",				  	"latin": "Lutra lutra",  						"label": "Utter",						"icon": "otter.png", 					"cat": 2 },
+            { "code": "rabbit",				  	"latin": "Oryctolagus cuniculus",  						"label": "Vildkanin",						"icon": "hare.png", 					"cat": 2 },
+            { "code": "wolverine",				  	"latin": "Gulo gulo",  						"label": "Järv",						"icon": "badger.png", 					"cat": 2 },
+            { "code": "seal.grey",				  	"latin": "Halichoerus grypus",  						"label": "Gråsäl",						"icon": "badger.png", 					"cat": 2 },
+            { "code": "seal.harbor",			  	"latin": "Phoca vitulina",  						"label": "Knubbsäl",						"icon": "badger.png", 					"cat": 2 },
+            { "code": "seal.ringed",			  	"latin": "Pusa hispida",  						"label": "Vikare",						"icon": "badger.png", 					"cat": 2 }
 				                                                                                                                                 	
 		],                                                                                                                                       	
                                                                                                                                                  	
