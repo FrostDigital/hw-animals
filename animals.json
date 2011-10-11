@@ -102,11 +102,11 @@
 			{ "code": "wolf.male",					  	"latin": "Canis lupus masculus",  				"label": "Varg - Hane",					"icon": "Wolf.png", 					"cat": 1 },
 			{ "code": "wolf.female",				  	"latin": "Canis lupus femina",  				"label": "Varg - Hona",					"icon": "Wolf.png", 					"cat": 1 },
             { "code": "otter.european",				  	"latin": "Lutra lutra",  						"label": "Utter",						"icon": "otter.png", 					"cat": 2 },
-            { "code": "rabbit",				  	"latin": "Oryctolagus cuniculus",  						"label": "Vildkanin",						"icon": "hare.png", 					"cat": 2 },
-            { "code": "wolverine",				  	"latin": "Gulo gulo",  						"label": "Järv",						"icon": "badger.png", 					"cat": 2 },
-            { "code": "seal.grey",				  	"latin": "Halichoerus grypus",  						"label": "Gråsäl",						"icon": "badger.png", 					"cat": 2 },
-            { "code": "seal.harbor",			  	"latin": "Phoca vitulina",  						"label": "Knubbsäl",						"icon": "badger.png", 					"cat": 2 },
-            { "code": "seal.ringed",			  	"latin": "Pusa hispida",  						"label": "Vikare",						"icon": "badger.png", 					"cat": 2 }
+            { "code": "rabbit",				  			"latin": "Oryctolagus cuniculus",  				"label": "Vildkanin",					"icon": "hare.png", 					"cat": 2 },
+            { "code": "wolverine",				  		"latin": "Gulo gulo",  							"label": "Järv",						"icon": "badger.png", 					"cat": 2 },
+            { "code": "seal.grey",				  		"latin": "Halichoerus grypus",  				"label": "Gråsäl",						"icon": "seal.png", 					"cat": 2 },
+            { "code": "seal.harbor",			  		"latin": "Phoca vitulina",  					"label": "Knubbsäl",					"icon": "seal.png", 					"cat": 2 },
+            { "code": "seal.ringed",			  		"latin": "Pusa hispida",  						"label": "Vikare",						"icon": "seal.png", 					"cat": 2 }
 				                                                                                                                                 	
 		],                                                                                                                                       	
                                                                                                                                                  	
@@ -323,8 +323,10 @@
 			{ "code": "wolf.male",						"latin": "Canis lupus masculus",  		   		"label": "Ulv - Hanne",									"icon": "Wolf.png", 			 		 "cat": 1 },
 			{ "code": "wolf.female",					"latin": "Canis lupus femina",  		    	"label": "Ulv - Tispene",								"icon": "Wolf.png", 			 		 "cat": 1 },
 			{ "code": "Reindeer",						"latin": "Rangifer tarandus tarandus",      	"label": "Rein – hann (bukk)",							"icon": "ren.png",						 "cat": 1 },
-			{ "code": "Reindeer",						"latin": "Rangifer tarandus tarandus",      	"label": "Rein – hunn (simle)",							"icon": "ren.png",						 "cat": 1 }
-						                                										                                               		 
+			{ "code": "Reindeer",						"latin": "Rangifer tarandus tarandus",      	"label": "Rein – hunn (simle)",							"icon": "ren.png",						 "cat": 1 },
+			{ "code": "seal.grey",				  		"latin": "Halichoerus grypus",  				"label": "Havert",										"icon": "seal.png", 					 "cat": 2 },
+            { "code": "seal.harbor",			  		"latin": "Phoca vitulina",  					"label": "Steinkobbe",									"icon": "seal.png", 				     "cat": 2 }
+            						                                										                                               		 
 		],                                                                                                                                     		 
 	                                                                                                                                           		 
 	"en":                                                                                                                                      		 
