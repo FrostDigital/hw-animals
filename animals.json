@@ -107,7 +107,10 @@
             { "code": "seal.grey",				  		"latin": "Halichoerus grypus",  				"label": "Gråsäl",						"icon": "seal.png", 					"cat": 2 },
             { "code": "seal.harbor",			  		"latin": "Phoca vitulina",  					"label": "Knubbsäl",					"icon": "seal.png", 					"cat": 2 },
             { "code": "seal.ringed",			  		"latin": "Pusa hispida",  						"label": "Vikare",						"icon": "seal.png", 					"cat": 2 },
-			{ "code": "felis.silvestris",			  	"latin": "Felis silvestris catus", 				"label": "Vildkatt",					"icon": "cat.png", 						"cat": 2 }
+			{ "code": "felis.silvestris",			  	"latin": "Felis silvestris catus", 				"label": "Vildkatt",					"icon": "cat.png", 						"cat": 2 },
+			{ "code": "deer.key.male",					"latin": "Odocoileus virginianus",				"label": "Vitsvanshjort - Hjort",		"icon": "White-tailed_deer.png",		"cat": 1 },
+			{ "code": "deer.key.female",				"latin": "Odocoileus virginianus",				"label": "Vitsvanshjort - Ko",			"icon": "White-tailed_deer.png",		"cat": 1 },
+			{ "code": "stoat",							"latin": "Mustela erminea",						"label": "Hermelin",					"icon": "mink.american.png",			"cat": 2 }
 				                                                                                                                                 	
 		],                                                                                                                                       	
                                                                                                                                                  	
@@ -214,8 +217,11 @@
 			{ "code": "mouflon.child.female",	   	   		"latin": "Ovis orientalis platycerata", 	  	"label": "Mufloni - Naaraskaritsa",		"icon": "mouflon.png", 			  		"cat": 1 },
 			{ "code": "wolf.male",					   		"latin": "Canis lupus masculus",  	    	  	"label": "Susi - Uros",					"icon": "Wolf.png", 			  		"cat": 1 },
 			{ "code": "wolf.female",				   		"latin": "Canis lupus femina",  	   		  	"label": "Susi – Naaras",				"icon": "Wolf.png", 			  		"cat": 1 },
-			{ "code": "Reindeer",							"latin": "Rangifer tarandus tarandus",      	"label": "Poro  - Uros (Hirvas)",		"icon": "ren.png",						"cat": 1 },
-			{ "code": "Reindeer",							"latin": "Rangifer tarandus tarandus",      	"label": "Poro – Naaras (Vaadin)",		"icon": "ren.png",						"cat": 1 }		
+			{ "code": "reindeer",							"latin": "Rangifer tarandus tarandus",      	"label": "Poro  - Uros (Hirvas)",		"icon": "ren.png",						"cat": 1 },
+			{ "code": "reindeer",							"latin": "Rangifer tarandus tarandus",      	"label": "Poro – Naaras (Vaadin)",		"icon": "ren.png",						"cat": 1 },
+			{ "code": "deer.key.male",						"latin": "Odocoileus virginianus",				"label": "Valkohäntäpeura",				"icon": "White-tailed_deer.png",		"cat": 1 },
+			{ "code": "stoat",								"latin": "Mustela erminea",						"label": "Kärppä",						"icon": "mink.american.png",			"cat": 2 }
+			
 		],                                                                                                                                       			
                                                                                                                                                 
                                              		 
@@ -323,10 +329,11 @@
 			{ "code": "mouflon.child.female",	   		"latin": "Ovis orientalis platycerata",    		"label": "Sauer - Honlamm",								"icon": "mouflon.png", 			 		 "cat": 1 },
 			{ "code": "wolf.male",						"latin": "Canis lupus masculus",  		   		"label": "Ulv - Hanne",									"icon": "Wolf.png", 			 		 "cat": 1 },
 			{ "code": "wolf.female",					"latin": "Canis lupus femina",  		    	"label": "Ulv - Tispene",								"icon": "Wolf.png", 			 		 "cat": 1 },
-			{ "code": "Reindeer",						"latin": "Rangifer tarandus tarandus",      	"label": "Rein – hann (bukk)",							"icon": "ren.png",						 "cat": 1 },
-			{ "code": "Reindeer",						"latin": "Rangifer tarandus tarandus",      	"label": "Rein – hunn (simle)",							"icon": "ren.png",						 "cat": 1 },
+			{ "code": "reindeer",						"latin": "Rangifer tarandus tarandus",      	"label": "Rein – hann (bukk)",							"icon": "ren.png",						 "cat": 1 },
+			{ "code": "reindeer",						"latin": "Rangifer tarandus tarandus",      	"label": "Rein – hunn (simle)",							"icon": "ren.png",						 "cat": 1 },
 			{ "code": "seal.grey",				  		"latin": "Halichoerus grypus",  				"label": "Havert",										"icon": "seal.png", 					 "cat": 2 },
-            { "code": "seal.harbor",			  		"latin": "Phoca vitulina",  					"label": "Steinkobbe",									"icon": "seal.png", 				     "cat": 2 }
+            { "code": "seal.harbor",			  		"latin": "Phoca vitulina",  					"label": "Steinkobbe",									"icon": "seal.png", 				     "cat": 2 },
+			{ "code": "stoat",							"latin": "Mustela erminea",						"label": "Røyskatt",									"icon": "mink.american.png",			 "cat": 2 }
             						                                										                                               		 
 		],                                                                                                                                     		 
 	                                                                                                                                           		 
@@ -432,7 +439,7 @@
 			{ "code": "mouflon.child.male",		   			 "latin": "Ovis orientalis adulo",  		"label": "Mouflon - Ramfawn",				"icon": "mouflon.png", 			 	   "cat": 1 },			
 			{ "code": "mouflon.child.female",	   			 "latin": "Ovis orientalis platycerata",    "label": "Mouflon - Hindfawn",				"icon": "mouflon.png", 			 	   "cat": 1 },
 			{ "code": "wolf.male",							 "latin": "Canis lupus masculus",  		    "label": "Wolf - Male",						"icon": "Wolf.png", 			 	   "cat": 1 },
-			{ "code": "wolf.female",						 "latin": "Canis lupus femina",  		    "label": "Wolf - Female",						"icon": "Wolf.png", 			   "cat": 1 }			
+			{ "code": "wolf.female",						 "latin": "Canis lupus femina",  		    "label": "Wolf - Female",					"icon": "Wolf.png", 			   "cat": 1 }			
 		],
 		                                                										                                                			
 	"de":                                                                                                                                       
