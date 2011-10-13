@@ -526,7 +526,7 @@
 			{ "code": "hare.european",						"latin": "Lepus europaeus",  		   			"label": "Feldhase",					"icon": "hare.png",		 				"cat": 3 },
 			{ "code": "hare.mountain",						"latin": "Lepus timidus",  			   			"label": "Schneehase",					"icon": "hare.png",		 				"cat": 3 },
 			{ "code": "badger.european",					"latin": "Meles meles",  			   			"label": "Dachs",						"icon": "badger.png",		 			"cat": 2 },
-			{ "code": "polecat.european",					"latin": "Mustela putorius",  		   			"label": "Iltis",						"icon": "mink.american.png",		 	"cat": 2 },
+			{ "code": "polecat.european",					"latin": "Mustela putorius",  		   			"label": "Iltis",						"icon": "mink.american.png",		 	"cat": 3 },
 			{ "code": "lynx.male",							"latin": "Lynx lynx masculus",  	   			"label": "Eurasischer Luchs - Männchen","icon": "lynx.png",		 				"cat": 1 },
 			{ "code": "lynx.female",						"latin": "Lynx lynx femina",  		   			"label": "Eurasischer Luchs - Weibchen","icon": "lynx.png",		 				"cat": 1 },
 			{ "code": "lynx.child",							"latin": "Lynx lynx iuvenis",  		   			"label": "Luchsjungtier",				"icon": "lynx.png",		 				"cat": 1 },
@@ -564,10 +564,10 @@
 			{ "code": "deer.sika.female",					"latin": "Cervus nippon",						"label": "Sikahirsch - Kuh",			"icon": "roe-deer.female.png", 			"cat": 1 },
 			{ "code": "chamois.male",						"latin": "Rupicapra rupicapra",					"label": "Gämse - Gamsbock",			"icon": "Chamois.png",		 			"cat": 1 },
 			{ "code": "chamois.female",						"latin": "Rupicapra rupicapra",					"label": "Gämse - Gamsgeiß",			"icon": "Chamois.png",		 			"cat": 1 },
-			{ "code": "Coypu",								"latin": "Myocastor coypus",					"label": "Sumpfbiber",					"icon": "bisam.png",		 			"cat": 2 },
-			{ "code": "raccoon",							"latin": "Procyon lotor",						"label": "Waschbär",					"icon": "dog.raccoon.png",	 			"cat": 2 },
-			{ "code": "weasel.least",						"latin": "Mustela nivalis",						"label": "Mauswiesel",					"icon": "mink.american.png", 			"cat": 2 },
-			{ "code": "stoat",								"latin": "Mustela erminea",						"label": "Hermelin",					"icon": "mink.american.png",			"cat": 2 },
-			{ "code": "polecat.european",					"latin": "Mustela putorius",					"label": "Iltisse",						"icon": "mink.american.png",			"cat": 2 }
+			{ "code": "Coypu",								"latin": "Myocastor coypus",					"label": "Sumpfbiber",					"icon": "bisam.png",		 			"cat": 3 },
+			{ "code": "raccoon",							"latin": "Procyon lotor",						"label": "Waschbär",					"icon": "dog.raccoon.png",	 			"cat": 3 },
+			{ "code": "weasel.least",						"latin": "Mustela nivalis",						"label": "Mauswiesel",					"icon": "mink.american.png", 			"cat": 3 },
+			{ "code": "stoat",								"latin": "Mustela erminea",						"label": "Hermelin",					"icon": "mink.american.png",			"cat": 3 },
+			{ "code": "polecat.european",					"latin": "Mustela putorius",					"label": "Iltisse",						"icon": "mink.american.png",			"cat": 3 }
 		]
 }
