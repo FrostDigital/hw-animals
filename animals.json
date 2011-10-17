@@ -12,7 +12,7 @@
 			{ "code": "duck", 							"latin": "Anatinae",							"label": "And", 						"icon": "duck.png",						"cat": 3 },
 		                                            	                                            	                                                                        		
 			{ "code": "brownbear.male", 				"latin": "Ursus arctos",						"label": "Björn - Hane",   				"icon": "bear.png",						"cat": 1 },
-			{ "code": "brownbear.unknown", 				"latin": "Ursus arctos",						"label": "Björn (obestämd)",   				"icon": "bear.png",						"cat": 1 },			
+			{ "code": "brownbear.unknown", 				"latin": "Ursus arctos",						"label": "Björn (obestämd)",   			"icon": "bear.png",						"cat": 1 },			
 			{ "code": "brownbear.female", 				"latin": "ursa",								"label": "Björn - Hona", 				"icon": "bear.png", 					"cat": 1 },			
 			{ "code": "brownbear.child", 				"latin": "Ursus arctos iuvenis",				"label": "Björn - Unge", 				"icon": "bear.png", 					"cat": 1 },			
                                                 		                                        	                                                					        		
@@ -37,6 +37,7 @@
 			{ "code": "wigeon.eurasian",	   			"latin": "Anas penelope", 						"label": "Bläsand",						"icon": "duck.png", 					"cat": 3 },
 			{ "code": "eider.common",		   			"latin": "Somateria mollissima", 				"label": "Ejder",						"icon": "duck.png", 					"cat": 3 },
 			{ "code": "pheasant.male",		   			"latin": "Phasianus colchicus gallus", 			"label": "Fasan - Tupp",				"icon": "phesant.png", 					"cat": 3 },
+			{ "code": "pheasant.male",		   			"latin": "Phasianus colchicus gallus", 			"label": "Fasan - (obestämd)",			"icon": "phesant.png", 					"cat": 3 },
 			{ "code": "pheasant.female",	   			"latin": "Phasianus colchicus gallina", 		"label": "Fasan - Höna",				"icon": "phesant.png", 					"cat": 3 },				
 			{ "code": "gull.common",		   			"latin": "Larus canus", 						"label": "Fiskmås",						"icon": "gull.png", 					"cat": 3 },
 			{ "code": "grouse.willow",		   			"latin": "Lagopus lagopus", 					"label": "Dalripa",						"icon": "pigeon.png", 					"cat": 3 },
@@ -85,6 +86,7 @@
 			{ "code": "mink.american",				  	"latin": "Mustela vison",  						"label": "Mink",						"icon": "mink.american.png", 			"cat": 3 },
 			{ "code": "firefox.male",					"latin": "Vulpes vulpes masculus", 				"label": "Rödräv - Hane",				"icon": "Red fox.png", 					"cat": 2 },
 			{ "code": "firefox.female",					"latin": "Vulpes vulpes femina",  				"label": "Rödräv - Hona",				"icon": "Red fox.png", 					"cat": 2 },
+			{ "code": "firefox.unknown",				"latin": "Vulpes vulpes", 		 				"label": "Rödräv (obestämd)",			"icon": "Red fox.png", 					"cat": 2 },
 			{ "code": "firefox.child",					"latin": "Vulpes vulpes iuvenis", 				"label": "Rödräv - Ungdjur",			"icon": "Red fox.png", 					"cat": 2 },
 			{ "code": "fallow-deer.male",			  	"latin": "Dama dama taurus",  					"label": "Dovhjort - Hjort",			"icon": "fallow-deer.png", 				"cat": 1 },
 			{ "code": "fallow-deer.unknown",		  	"latin": "Dama dama taurus",  					"label": "Dovhjort (obestämd)",			"icon": "fallow-deer.png", 				"cat": 1 },			
@@ -208,6 +210,7 @@
 			{ "code": "mink.american",				   		"latin": "Mustela vison",  			    	  	"label": "Minkki",						"icon": "mink.american.png", 	  		"cat": 3 },
 			{ "code": "firefox.male", 					   	"latin": "Vulpes vulpes masculus", 	    	  	"label": "Kettu - Uros",				"icon": "Red fox.png", 			  		"cat": 2 },
 			{ "code": "firefox.female",					   	"latin": "Vulpes vulpes femina",  	    	  	"label": "Kettu - Naaras",				"icon": "Red fox.png", 			  		"cat": 2 },
+			{ "code": "firefox.unknown",				   	"latin": "Vulpes vulpes",		  	    	  	"label": "Kettu",						"icon": "Red fox.png", 			  		"cat": 2 },
 			{ "code": "firefox.child",					   	"latin": "Vulpes vulpes iuvenis", 	    	  	"label": "Kettu - Pentu",				"icon": "Red fox.png", 			  		"cat": 2 },
 			{ "code": "fallow-deer.male",			   		"latin": "Dama dama taurus",  		    	  	"label": "Kuusipeura - Uros",			"icon": "fallow-deer.png", 		  		"cat": 1 },
 			{ "code": "fallow-deer.unknown",		   		"latin": "Dama dama",		  		    	  	"label": "Kuusipeura",					"icon": "fallow-deer.png", 		  		"cat": 1 },			
