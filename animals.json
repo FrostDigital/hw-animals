@@ -127,7 +127,8 @@
 			{ "code": "deer.key.child",					"latin": "Odocoileus virginianus",				"label": "Vitsvanshjort - Kid",			"icon": "White-tailed_deer.png",		"cat": 1 },
 			{ "code": "deer.key.child.male",			"latin": "Odocoileus virginianus",				"label": "Vitsvanshjort - Bockkid",		"icon": "White-tailed_deer.png",		"cat": 1 },
 			{ "code": "deer.key.child.female",			"latin": "Odocoileus virginianus",				"label": "Vitsvanshjort - Getkid",		"icon": "White-tailed_deer.png",		"cat": 1 },
-			{ "code": "stoat",							"latin": "Mustela erminea",						"label": "Hermelin",					"icon": "mink.american.png",			"cat": 3 }
+			{ "code": "stoat",							"latin": "Mustela erminea",						"label": "Hermelin",					"icon": "mink.american.png",			"cat": 3 },
+			{ "code": "rook",							"latin": "Corvus frugilegus",					"label": "Råka",						"icon": "crow.png",						"cat": 3 }
 				                                                                                                                                 	
 		],                                                                                                                                       	
                                                                                                                                                  	
