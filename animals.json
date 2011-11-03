@@ -8,7 +8,6 @@
 			{ "code": "moose.child.male", 				"latin": "Alces alces adulo",					"label": "Älg - Tjurkalv",  			"icon": "moose_kalf.png",   			"cat": 1 },				
 			{ "code": "moose.child.female", 			"latin": "Alces alces platycerata",				"label": "Älg - Kvigkalv",  			"icon": "moose_kalf.png",   			"cat": 1 },			
 			{ "code": "moose.female.no-childs", 		"latin": "Alces alces unicus",					"label": "Älg - Kviga", 				"icon": "moose_cow.png",   				"cat": 1 },
-			{ "code": "moose.female.kid", 				"latin": "Alces alces unicus",					"label": "Älg - Ko med kalv",			"icon": "moose_cow.png",   				"cat": 1 },			
                                                     	                                          	                                              			                    		
 			{ "code": "duck", 							"latin": "Anatinae",							"label": "And", 						"icon": "duck.png",						"cat": 3 },
 		                                            	                                            	                                                                        		
