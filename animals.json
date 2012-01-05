@@ -643,7 +643,7 @@
 			{ "code": "roe-deer.child",				 "familyCode": "roe-deer",   	"latin": "Capreolus capreolus",		   			"label": "Roe Deer - Femael - No child",   		"icon": "roe-deer.child.png", 			"cat": 1 },			
 			{ "code": "roe-deer.child.male",		 "familyCode": "roe-deer",   	"latin": "Capreolus capreolus",		   			"label": "Roe Deer - Fawn",				   		"icon": "roe-deer.child.png", 			"cat": 1 },			
 			{ "code": "roe-deer.child.female",		 "familyCode": "roe-deer",   	"latin": "Capreolus capreolus",		   			"label": "Roe Deer - Male fawn",		   		"icon": "roe-deer.child.png", 			"cat": 1 },
-                                                                                                            "label": "Roe Deer - Female fawn",		                                                                            	
+                                                                                                                                                                                    	
 			{ "code": "duck.long-tailed",					"latin": "Clangula hyemalis",	 	   			"label": "Eisente",						"icon": "duck.png",		 				"cat": 3 },
 			{ "code": "fieldfare",							"latin": "Turdus pilaris", 			   			"label": "Wacholderdrossel",			"icon": "crow.png",		 				"cat": 3 },
 			{ "code": "wigeon.eurasian",					"latin": "Anas penelope", 			   			"label": "Anas penelope",				"icon": "duck.png",		 				"cat": 3 },
