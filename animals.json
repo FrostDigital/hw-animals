@@ -8,6 +8,8 @@
 			{ "code": "moose.child.male", 				"latin": "Alces alces adulo",					"label": "Älg - Tjurkalv",  			"icon": "moose_kalf.png",   			"cat": 1 },				
 			{ "code": "moose.child.female", 			"latin": "Alces alces platycerata",				"label": "Älg - Kvigkalv",  			"icon": "moose_kalf.png",   			"cat": 1 },			
 			{ "code": "moose.female.no-childs", 		"latin": "Alces alces unicus",					"label": "Älg - Kviga", 				"icon": "moose_cow.png",   				"cat": 1 },
+			{ "code": "moose.female.one.child", 		"latin": "Alces alces unicus",					"label": "Älg - Ko med kalv", 			"icon": "moose_cow.png",   				"cat": 1 },
+			{ "code": "moose.female.two.child", 		"latin": "Alces alces unicus",					"label": "Älg - Ko med två kalvar", 	"icon": "moose_cow.png",   				"cat": 1 },
 			                                                    	                                          	                                              			                    		
 			{ "code": "duck", 							"latin": "Anatinae",							"label": "And", 						"icon": "duck.png",						"cat": 3 },
 		                                            	                                            	                                                                        		
@@ -31,6 +33,8 @@
 			{ "code": "roe-deer.child",					"latin": "Capreolus capreolus",					"label": "Rådjur - Kid",				"icon": "roe-deer.child.png", 			"cat": 1 },			
 			{ "code": "roe-deer.child.male",			"latin": "Capreolus capreolus",					"label": "Rådjur - Bockkid",			"icon": "roe-deer.child.png", 			"cat": 1 },			
 			{ "code": "roe-deer.child.female",			"latin": "Capreolus capreolus",					"label": "Rådjur - Getkid",				"icon": "roe-deer.child.png", 			"cat": 1 },
+			{ "code": "roe-deer.one.child",				"latin": "Capreolus capreolus",					"label": "Rådjur - Get med ett kid",	"icon": "roe-deer.child.png", 			"cat": 1 },
+			{ "code": "roe-deer.two.child",				"latin": "Capreolus capreolus",					"label": "Rådjur - Get med två kid",	"icon": "roe-deer.child.png", 			"cat": 1 },
 			                                        	                                            	                                         	
 			{ "code": "duck.long-tailed",	   			"latin": "Clangula hyemalis",	 				"label": "Alfågel",						"icon": "duck.png", 					"cat": 3 },
 			{ "code": "fieldfare",			   			"latin": "Turdus pilaris", 						"label": "Björktrast (snöskata)",		"icon": "crow.png", 					"cat": 3 },
@@ -141,7 +145,9 @@
 			{ "code": "moose.child.male", 					"latin": "Alces alces adulo",				  	"label": "Hirvi - Sonnivasa",  							"icon": "moose_kalf.png",  	"cat": 1 },				
 			{ "code": "moose.child.female", 				"latin": "Alces alces platycerata",			  	"label": "Hirvi - Naarasvasa", 							"icon": "moose_kalf.png",  	"cat": 1 },			
 			{ "code": "moose.female.no-childs", 			"latin": "Alces alces unicus",				  	"label": "Hirvi - Hieho", 								"icon": "moose_cow.png",   	"cat": 1 },			
-                                                                                                                                                					                            
+            { "code": "moose.female.one.child", 			"latin": "Alces alces unicus",					"label": "Hirvi - Emä ja vasikka", 						"icon": "moose_cow.png",   	"cat": 1 },
+			{ "code": "moose.female.two.child", 			"latin": "Alces alces unicus",					"label": "Hirvi - Emä ja kaksi vasikkaa", 				"icon": "moose_cow.png",   	"cat": 1 },
+                                                                                                                                    					                            
 			{ "code": "duck", 								"latin": "Anatinae",						  	"label": "Sorsa", 										"icon": "duck.png", 		"cat": 3 },
 	                                                                                                                                            					                            
                                                                                  			                                                    					                            
@@ -158,13 +164,15 @@
 			{ "code": "boar.child.striped",					"latin": "Sus scrofa clavatus",		    	  	"label": "Villisika – Porsas (raidallinen)", 			"icon": "Wildboar.png",		"cat": 1 },
                                                                                            	                                                     	                                	        
 			{ "code": "roe-deer.male",						"latin": "Capreolus capreolus",		    	  	"label": "Metsäkauris - Uros",			"icon": "roe-deer.male.png",  				"cat": 1 },
-			{ "code": "roe-deer.unknown",						"latin": "Capreolus capreolus",		    	  	"label": "Metsäkauris",					"icon": "roe-deer.male.png",  			"cat": 1 },
+			{ "code": "roe-deer.unknown",					"latin": "Capreolus capreolus",		    	  	"label": "Metsäkauris",					"icon": "roe-deer.male.png",  			"cat": 1 },
 			{ "code": "roe-deer.female",					"latin": "Capreolus capreolus",		    	  	"label": "Metsäkauris - Naaras",		"icon": "roe-deer.female.png",				"cat": 1 },
 			{ "code": "roe-deer.female.no-childs",			"latin": "Capreolus capreolus",		    	  	"label": "Metsäkauris - Nuori naaras",	"icon": "roe-deer.female.png",				"cat": 1 },
 			{ "code": "roe-deer.child",						"latin": "Capreolus capreolus",		    	  	"label": "Metsäkauris - Vasa",			"icon": "roe-deer.child.png", 				"cat": 1 },
 			{ "code": "roe-deer.child.male",				"latin": "Capreolus capreolus",		    	  	"label": "Metsäkauris - Urosvasa",		"icon": "roe-deer.child.png", 				"cat": 1 },
 			{ "code": "roe-deer.child.female",				"latin": "Capreolus capreolus",		    	  	"label": "Metsäkauris - Naarasvasa",	"icon": "roe-deer.child.png",       		"cat": 1 },
-		                                                                                                                                         	                                        	
+		    { "code": "roe-deer.one.child",					"latin": "Capreolus capreolus",					"label": "Metsäkauris - Emo ja vasikka",	"icon": "roe-deer.child.png", 			"cat": 1 },
+			{ "code": "roe-deer.two.child",					"latin": "Capreolus capreolus",					"label": "Metsäkauris - Emo ja kaksi vasikkaa",	"icon": "roe-deer.child.png", 			"cat": 1 },
+		                                                                                                                                     	                                        	
 			{ "code": "duck.long-tailed",					"latin": "Clangula hyemalis",	 	    	  	"label": "Alli",						"icon": "duck.png", 	 					"cat": 3 },
 			{ "code": "fieldfare",							"latin": "Turdus pilaris", 			    	  	"label": "Räkättirastas",				"icon": "crow.png", 	 					"cat": 3 },
 			{ "code": "wigeon.eurasian",					"latin": "Anas penelope", 			    	  	"label": "Haapana",						"icon": "duck.png", 	 					"cat": 3 },
@@ -267,7 +275,9 @@
 			{ "code": "moose.child.male", 				"latin": "Alces alces adulo",			   		"label": "Elg - Oksekalv",  			"icon": "moose_kalf.png",					"cat": 1 },				
 			{ "code": "moose.child.female", 			"latin": "Alces alces platycerata",		   		"label": "Elg - Kukalv",  				"icon": "moose_kalf.png",					"cat": 1 },			
 			{ "code": "moose.female.no-childs", 		"latin": "Alces alces unicus",			   		"label": "Elg - Kvige", 				"icon": "moose_cow.png", 					"cat": 1 },			
-                                                                                                   		                                        		 
+            { "code": "moose.female.one.child", 		"latin": "Alces alces unicus",					"label": "Elg - Ku med kalv", 			"icon": "moose_cow.png",   				"cat": 1 },
+			{ "code": "moose.female.two.child", 		"latin": "Alces alces unicus",					"label": "Elg - Ku med to kalver", 		"icon": "moose_cow.png",   			"cat": 1 },
+                                                                                       		                                        		 
 			{ "code": "duck", 							"latin": "Anatinae",					   		"label": "And", 						"icon": "duck.png",		 					"cat": 3 },
 		                                                                                           		                                        		 
                                                         													                                    		 
@@ -284,13 +294,15 @@
 			{ "code": "boar.child.red", 				"latin": "Sus scrofa ruber",			   		"label": "Villsvin – Unge “Rødgris” (4-12 mån.)",	 	"icon": "Wildboar.png",		 "cat": 1 },			
 			{ "code": "boar.child.striped",				"latin": "Sus scrofa clavatus",			   		"label": "Villsvin – Unge (stripet)",					"icon": "Wildboar.png",		 "cat": 1 },			
                                                                                            		   		                                				 
-			{ "code": "roe-deer.male",					"latin": "Capreolus capreolus",			   		"label": "Rådyr - Bukk",								"icon": "roe-deer.male.png",  		 "cat": 1 },
-			{ "code": "roe-deer.unknown",				"latin": "Capreolus capreolus",			   		"label": "Rådyr",										"icon": "roe-deer.male.png",  		 "cat": 1 },			
-			{ "code": "roe-deer.female",				"latin": "Capreolus capreolus",			   		"label": "Rådyr - Rå",									"icon": "roe-deer.female.png",		 "cat": 1 },			
-			{ "code": "roe-deer.female.no-childs",		"latin": "Capreolus capreolus",			   		"label": "Rådjur - Smaldjur",							"icon": "roe-deer.female.png",		 "cat": 1 },			
-			{ "code": "roe-deer.child",					"latin": "Capreolus capreolus",			   		"label": "Rådyr – Ungdyr",								"icon": "roe-deer.child.png", 		 "cat": 1 },			
-			{ "code": "roe-deer.child.male",			"latin": "Capreolus capreolus",			   		"label": "Rådyr - Ungdyr - Bukk",						"icon": "roe-deer.child.png", 		 "cat": 1 },			
-			{ "code": "roe-deer.child.female",			"latin": "Capreolus capreolus",			   		"label": "Rådyr - Ungdyr - Rå",							"icon": "roe-deer.child.png", 		 "cat": 1 },
+			{ "code": "roe-deer.male",					"latin": "Capreolus capreolus",			   		"label": "Rådyr - Bukk",								"icon": "roe-deer.male.png",  		"cat": 1 },
+			{ "code": "roe-deer.unknown",				"latin": "Capreolus capreolus",			   		"label": "Rådyr",										"icon": "roe-deer.male.png",  		"cat": 1 },			
+			{ "code": "roe-deer.female",				"latin": "Capreolus capreolus",			   		"label": "Rådyr - Rå",									"icon": "roe-deer.female.png",		"cat": 1 },			
+			{ "code": "roe-deer.female.no-childs",		"latin": "Capreolus capreolus",			   		"label": "Rådjur - Smaldjur",							"icon": "roe-deer.female.png",		"cat": 1 },			
+			{ "code": "roe-deer.child",					"latin": "Capreolus capreolus",			   		"label": "Rådyr – Ungdyr",								"icon": "roe-deer.child.png", 		"cat": 1 },			
+			{ "code": "roe-deer.child.male",			"latin": "Capreolus capreolus",			   		"label": "Rådyr - Ungdyr - Bukk",						"icon": "roe-deer.child.png", 		"cat": 1 },			
+			{ "code": "roe-deer.child.female",			"latin": "Capreolus capreolus",			   		"label": "Rådyr - Ungdyr - Rå",							"icon": "roe-deer.child.png", 		"cat": 1 },
+			{ "code": "roe-deer.one.child",				"latin": "Capreolus capreolus",					"label": "Rådyr - Rå med kalv",							"icon": "roe-deer.child.png", 		"cat": 1 },
+			{ "code": "roe-deer.two.child",				"latin": "Capreolus capreolus",					"label": "Rådyr - Rå med to kalver",					"icon": "roe-deer.child.png", 		"cat": 1 },
 			                                                                                       		                                        		 
 			{ "code": "duck.long-tailed",				"latin": "Clangula hyemalis",	 		   		"label": "Havelle",										"icon": "duck.png",    		 "cat": 3 },
 			{ "code": "fieldfare",						"latin": "Turdus pilaris", 				   		"label": "Gråtrost",									"icon": "crow.png",    		 "cat": 3 },
@@ -391,7 +403,9 @@
 				{ "code": "moose.child.male", 					"latin": "Alces alces adulo",			   	"label": "Moose - Bull Calf",  				"icon": "moose_kalf.png",		 	   "cat": 1 },				
 				{ "code": "moose.child.female", 				"latin": "Alces alces platycerata",		   	"label": "Moose - Female Calf",  			"icon": "moose_kalf.png",		 	   "cat": 1 },			
 				{ "code": "moose.female.no-childs", 			"latin": "Alces alces unicus",			   	"label": "Moose - Female no calf",			"icon": "moose_cow.png", 		 	   "cat": 1 },			
-
+				{ "code": "moose.female.one.child", 			"latin": "Alces alces unicus",				"label": "Moose - Cow with calf", 			"icon": "moose_cow.png",   				"cat": 1 },
+				{ "code": "moose.female.two.child", 			"latin": "Alces alces unicus",				"label": "Moose - Cow with two calfs", 		"icon": "moose_cow.png",   				"cat": 1 },
+				
 				{ "code": "duck", 								"latin": "Anatinae",					   	"label": "Duck", 							"icon": "duck.png",		 			   "cat": 3 },
 
 
