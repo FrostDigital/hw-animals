@@ -966,7 +966,13 @@
                     "cat": 3
                 },
 
-
+ {
+                    "code": "brownbear.unknown",
+                    "latin": "Ursus arctos",
+                    "label": "Karhu",
+                    "icon": "bear.png",
+                    "cat": 1
+                },
                 {
                     "code": "brownbear.male",
                     "latin": "Ursus arctos",
