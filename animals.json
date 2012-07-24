@@ -2347,7 +2347,7 @@
                     "code": "fallow-deer.female",
                     "latin": "Dama dama bucula",
                     "label": "Dåhjort - Hind",
-                    "icon": "fallow-deer.female",
+                    "icon": "fallow-deer-female.png",
                     "cat": 1
                 },
                 {
@@ -3275,7 +3275,7 @@
                     "code": "fallow-deer.female",
                     "latin": "Dama dama bucula",
                     "label": "Fallow deer - Doe",
-                    "icon": "fallow-deer.female",
+                    "icon": "fallow-deer-female.png",
                     "cat": 1
                 },
                 {
@@ -4259,7 +4259,7 @@
                     "code": "fallow-deer.female",
                     "latin": "Dama dama bucula",
                     "label": "Damhirsch - Kuh",
-                    "icon": "fallow-deer.female",
+                    "icon": "fallow-deer-female.png",
                     "cat": 1
                 },
                 {
