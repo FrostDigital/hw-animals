@@ -420,6 +420,13 @@
                     "cat": 3
                 },
                 {
+                    "code": "pigeon.rock",
+                    "latin": "Columba livia",
+                    "label": "Stadsduva (Klippduva)",
+                    "icon": "pigeon.png",
+                    "cat": 3
+                },
+                {
                     "code": "goose.bean",
                     "latin": "Anser fabalis",
                     "label": "Sädgås",
@@ -2938,6 +2945,13 @@
                     "code": "pigeon.stock",
                     "latin": "Columba oenas",
                     "label": "Stock Dove",
+                    "icon": "pigeon.png",
+                    "cat": 3
+                },
+                {
+                    "code": "pigeon.rock",
+                    "latin": "Columba livia",
+                    "label": "Rock Dove",
                     "icon": "pigeon.png",
                     "cat": 3
                 },
