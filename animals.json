@@ -2423,14 +2423,14 @@
                 {
                     "code": "red-deer.child.male",
                     "latin": "Cervus elaphus adulo",
-                    "label": "Hjort - Bukkkalv",
+                    "label": "Hjort - Ungdyr Bukk",
                     "icon": "red-deer-female.png",
                     "cat": 1
                 },
                 {
                     "code": "red-deer.child.female",
                     "latin": "Cervus elaphus platycerata",
-                    "label": "Hjort - Hindkalv",
+                    "label": "Hjort - Ungdyr Hind",
                     "icon": "red-deer-female.png",
                     "cat": 1
                 },
