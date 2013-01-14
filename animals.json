@@ -2751,6 +2751,20 @@
                     "icon": "roe-deer-child.png",
                     "cat": 1
                 },
+                {
+                    "code": "roe-deer.one.child",
+                    "latin": "Capreolus capreolus",
+                    "label": "Roe Deer with one fawn",
+                    "icon": "roe-deer-child.png",
+                    "cat": 1
+                },
+                {
+                    "code": "roe-deer.two.child",
+                    "latin": "Capreolus capreolus",
+                    "label": "Roe Deer with two fawns",
+                    "icon": "roe-deer-child.png",
+                    "cat": 1
+                },
 
                 {
                     "code": "duck.long-tailed",
